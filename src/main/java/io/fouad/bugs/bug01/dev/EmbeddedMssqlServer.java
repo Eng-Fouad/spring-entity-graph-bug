@@ -3,8 +3,8 @@ package io.fouad.bugs.bug01.dev;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 import io.fouad.bugs.bug01.utils.RequiredBy;
-import jakarta.annotation.PostConstruct;
-import jakarta.annotation.PreDestroy;
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
 import lombok.extern.slf4j.Slf4j;
 
 @Profile("development")

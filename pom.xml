@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.0.5</version>
+        <version>2.7.10</version>
         <relativePath/> <!-- To skip the local file search and directly search the parent POM in Maven repositories -->
     </parent>
     <groupId>io.fouad</groupId>
